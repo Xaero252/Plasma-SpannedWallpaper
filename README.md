@@ -129,10 +129,10 @@ These control how KDE scales each slice within its monitor. Since each slice is 
 ## Screenshots
 
 Default view with 3 attached monitors:
-(screenshots/1.png)
+![screenshot showing application window with 3 monitors](screenshots/1.png)
 
 Single triple monitor wallpaper loaded in:
-(screenshots/2.png)
+![screenshot showing application with wallpaper loaded](screenshots/2.png)
 
 Zoomed and panned view showing preview of how wallpaper will be applied to connected displays:
-(screenshots/3.png)
+![screenshot showing application mid workflow with wallpaper cropped and panned](screenshots/3.png)
