@@ -15,7 +15,7 @@ Being up front - this tool was almost entirely vibe coded. The concept is pretty
 
 ## Dependencies
 
-###System Packages:
+### System Packages:
 
 Tkinter (GUI)
 Python3
